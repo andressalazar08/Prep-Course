@@ -1,0 +1,10 @@
+Variables: Son los datos que podemos guardar en la memoria de un computador para ser accedidos posteriormente
+
+Strings: Son cadenas de caracteres que denotamos como letras, frases o combinaciones
+
+Funciones(argumentos, return): Las funciones tienen la habilidad de evitarnos duplicar código
+podemos acceder a ellas, estas pueden o no tener argumentos con que operar y además pueden o no devolver un resultado
+
+Declaraciones: es cuando definimos una variable, la declaramos
+
+Valores: puede tomar dos posibles valores, true o false
