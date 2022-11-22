@@ -1,0 +1,4 @@
+* `for`: Es un bucle que usamos en programación para controlar el flujo iterativo sobre una parte del código
+
+* `&&`, `||`, `!` Son operadores de comparación para las condiciones que podemos encontrar en un if por ejemplo.
+
