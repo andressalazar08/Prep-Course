@@ -242,8 +242,10 @@ function esVocal(letra){
   // Si no es vocal, tambien debe devolver "Dato incorrecto".
   //Escribe tu código aquí
   if(letra.length==1){
-    if (letra.esVocal){
+    if (letra.toLowerCase()==='a'||letra.toLowerCase()==='e'||letra.toLowerCase()==='i'||letra.toLowerCase()==='o'||letra.toLowerCase()==='u'){
       return "Es vocal"
+    }else{
+      return "Dato incorrecto"
     }
 
   }else{
