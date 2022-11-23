@@ -1,0 +1,1 @@
+Arrays:Son estructuras de datos que permiten representar listas de elementos.
