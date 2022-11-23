@@ -1,0 +1,13 @@
+
+	* Objetos: Son elementos de Javascript que reprentan claves - valor
+	* Propiedades: son las características que tienen los objetos
+	* Métodos: son las funciones que se escriben dentro de un objeto
+	* Bucle `for…in`: tiene la posibilidad de hacer un ciclo en un objeto
+            const object = { a: 1, b: 2, c: 3 };
+
+            for (const property in object) {
+                console.log(`${property}: ${object[property]}`);
+            }
+	* Notación de puntos vs notación de corchetes:
+    Podemos acceder a las propiedades de dos maneras, con el punto o los corchetes.
+    talves la forma de acceder bajo corchetes permitiría trabajar con variables para acceder en bucles.
