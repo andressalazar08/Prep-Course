@@ -1,0 +1,4 @@
+
+* `prototype`: es una forma de ahorrar escritura para que cuando se cree un objeto el método quede más oculto desde
+                el prototype para que pueda ser accedido por el objeto pero igual se define una vez.
+* _Constructors_ (de Clases): es donde definimos las propiedades del molde que va a llevar un objeto.
